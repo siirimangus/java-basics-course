@@ -42,5 +42,4 @@ Print the following sentences to the console:
 9. 'Three' - three, 'four' - four, "five" - five.
 10. Print characters 1, 2 and 3 from the word "lightning".
 11. Compose a new word from characters 1, 5, 2 of the word "lightning" and print it.
-12. Print out "Hello <name>" using `System.out.printf`. Then try the same with `String.format`.
-13. What are the numeric values of characters: `a`, `A`, `z`, `y`?
+12. Print out "Hello {name}" using `System.out.printf`. Then try the same with `String.format`.
