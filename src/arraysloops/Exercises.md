@@ -21,10 +21,10 @@ Character: d
 
 ## EX 2 - Loops + Arrays
 
-Create a class `ArraysAndsLoops` in this package.
+Create a class `ArraysAndLoops` in this package.
 
 1. Define an array which holds names of 3 fruits. Print the contents of the array.
-2. Define a method `String[] deletefromArray(String[] array, String value)` which would delete value from the given array.
+2. Define a method `String[] deleteFromArray(String[] array, String value)` which would delete value from the given array.
 3. Define a method `boolean existsInArray(String[] array, String value)` which would check if the given value exists in the array.
 4. Define a method `String[] addToArray(String[] array, String value, int index)` which adds a value to the specified array under the specified index.
 5. Define an empty array of size 10, which will hold `char`. Populate the array with the characters `v`, `k`, `a`, `s`, `d`. Sort the array alphabetically.
