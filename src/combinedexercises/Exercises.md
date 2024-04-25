@@ -127,7 +127,7 @@ Solution: https://www.w3resource.com/java-exercises/conditional-statement/java-c
 
 14. Write a method that would return a HashMap with keys `letter`, `number`, `space`, `other`, where you collect the count of letters, numbers,
 spaces and other type of characters in a given string. \
-Hint: methods needed are `toCharArray()`, `Character.isLetter(char)`, `Character.isNumber(char)`, `Character.isSpace(char)` \
+Hint: methods needed are `toCharArray()`, `Character.isLetter(char)`, `Character.isDigit(char)`, `Character.isSpaceChar(char)` \
 Solution: https://www.w3resource.com/java-exercises/basic/java-basic-exercise-38.php
 ```
 Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33 -> { letter: 23, number: 10, space: 9, other: 6 }
