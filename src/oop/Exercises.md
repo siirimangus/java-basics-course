@@ -2,7 +2,12 @@
 
 Create a package `oop` under the `src` folder.
 
-1. Create a class called `Cat` which simulates a "usual" cat:
+1. Write a Java program to create a class called `Circle` with a private instance variable radius.
+Provide public getter and setter methods to access and modify the radius variable.
+However, provide two methods called `calculateArea()` and `calculatePerimeter()` that return the calculated area and perimeter based on the current radius value. \
+Solution: https://www.w3resource.com/java-exercises/encapsulation/java-encapsulation-exercise-5.php
+
+2. Create a class called `Cat` which simulates a "usual" cat:
 ```
 Cat(String name, String owner)
 
@@ -19,7 +24,7 @@ Override the `equals`, `hashCode` and `toString` methods.
 String toString() -- "Cat named {name} with owner {owner}"
 ```
 
-2. Create a class called `Student`, which simulates a usual student:
+3. Create a class called `Student`, which simulates a usual student:
 ```
 Student(String name, String university, boolean isLazy)
 
@@ -31,3 +36,7 @@ void doHomework() -- if student is lazy, prints "Homework? I have TV shows to wa
 void switchUniversity(String school) -- Prints "{student name} leaves {current university} and starts studying in {new university}" and changes the `university` value.
 String toString() -- returns a string "{student name}, {student university}"
 ```
+
+4. Write a Java program to create a class called `Restaurant` with attributes for menu items, prices, and ratings,
+and methods to add and remove items, and to calculate average rating. \
+Solution: https://www.w3resource.com/java-exercises/oop/java-oop-exercise-18.php
